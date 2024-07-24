@@ -48,7 +48,3 @@ You are expected to design any other required models and routes for your API.
 ### CodeSubmit
 
 Please organize, design, test, and document your code as if it were going into production - then push your changes to the master branch. After you have pushed your code, you must submit the assignment via the assignment page.
-
-All the best and happy coding,
-
-The Blackbook AI Tech Team
